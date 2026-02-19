@@ -4,7 +4,7 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "manohar Bakery - Fresh Baked Goods",
   description:
-    "Fresh baked goods made with love and traditional recipes. We bring you the finest breads, pastries, and desserts.",
+    "Fresh baked goods made with love and traditional recipes. We bring you the finest breads, pastries, and desserts",
 };
 
 export default function RootLayout({
